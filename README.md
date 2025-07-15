@@ -23,6 +23,8 @@ Sou movida pela curiosidade e acredito que a tecnologia é uma ponte para criar 
   <img src="https://img.shields.io/badge/HTML5-f78da7?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-fcbad3?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-ffe0ac?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  
 
 - *Soft skills:*  
   Organização, criatividade, empatia e sede por aprender!
