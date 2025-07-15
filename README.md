@@ -33,7 +33,6 @@ Sou movida pela curiosidade e acredito que a tecnologia é uma ponte para criar 
 
 ## - Um pouco do meu estilo
 
-- Acredito na beleza do simples
 - Gosto de ver cada projeto como uma oportunidade de crescer
 - Amo criar coisas que fazem sentido e encantam visualmente
 - Busco evolução constante, com leveza e consistência
