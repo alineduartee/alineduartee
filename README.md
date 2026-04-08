@@ -7,7 +7,7 @@
 
 ---
 
-## 🌸 Sobre mim
+## Sobre mim
 
 Oi! Eu sou a **Aline**, estudante de **Sistemas de Informação**, apaixonada por tecnologia, design e desenvolvimento de soluções que fazem sentido.
 
@@ -25,11 +25,7 @@ Sou movida pela **curiosidade**, pelo **aprendizado contínuo** e pelo desejo de
 
 ## 💻 Tecnologias e Linguagens
 
-<img src="https://img.shields.io/badge/C++-a64ac9?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Java-f78da7?style=flat&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-fcbad3?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-ffe0ac?style=flat&logo=css3&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/C++-a64ac9?style=flat&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Java-f78da7?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-fcbad3?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-ffe0ac?style=flat&logo=css3&logoColor=black"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
 
 ---
 
